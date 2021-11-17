@@ -75,7 +75,7 @@
 							<div class="col-md-4">
 								<div class="single-blog">
 									<div class="blog-img">
-										<a href="panchkarma.php">
+										<a href="panchkarma.html">
 											<img src="./img/Panchkarma-2.jpg " alt="">
 											<h3>Panchakarma.</h2>
 										</a>
@@ -89,7 +89,7 @@
 							<div class="col-md-4">
 								<div class="single-blog">
 									<div class="blog-img">
-										<a href="beauty.php">
+										<a href="beauty.html">
 											<img src="./img/02.jpg" alt="">
 											<h3>Ayurvedic Beauty Therapy.</h3>
 										</a>
@@ -103,7 +103,7 @@
 							<div class="col-md-4">
 								<div class="single-blog">
 									<div class="blog-img">
-										<a href="yoga.php">
+										<a href="yoga.html">
 											<img src="./img/cd174f09cc87d544bc10a3b9ef95893d.jpg" alt="">
 											<h3>Yoga and Naturopathy.</h2>
 										</a>
@@ -117,7 +117,7 @@
 							<div class="col-md-4">
 								<div class="single-blog">
 									<div class="blog-img">
-										<a href="plant.php">
+										<a href="plant.html">
 											<img src="./img/image-01_p_1547200_304396.jpg " alt="">
 											<h3>Cultivation of Medicinal Plants.</h2>
 										</a>
@@ -131,7 +131,7 @@
 							<div class="col-md-4">
 								<div class="single-blog">
 									<div class="blog-img">
-										<a href="lifestyle.php">
+										<a href="lifestyle.html">
 											<img src="./img/Ayurvedic-Lifestyle-Management.jpg" alt="">
 											<h3>Ayurvedic Lifestyle Management.</h2>
 										</a>
@@ -145,7 +145,7 @@
 							<div class="col-md-4">
 								<div class="single-blog">
 									<div class="blog-img">
-										<a href="diet.php">
+										<a href="diet.html">
 											<img src="./img/PD-diet-1.png " alt="">
 											<h3>Ayurvedic Dietics.</h2>
 										</a>
