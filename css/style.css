@@ -601,7 +601,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 /* -- Feature -- */
 .container-fluid {
 	background-color: #fffff;
-	margin-left: 20px;
+	
 	padding-left: 20px;
 	margin-right: 20px;
 	padding-right: 20px;
